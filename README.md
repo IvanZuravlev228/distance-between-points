@@ -1,4 +1,4 @@
-# distance-between-points
+<h1 align="center">distance-between-points</h1>
 <h2>Task:</h2>
 Create an API to calculate the distance between two points on the earth's surface (points are specified by latitude/longitude coordinates). An important requirement is a limit of 10 calls per minute for each external user.
 
